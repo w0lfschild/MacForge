@@ -2504,7 +2504,7 @@ MacForge and its helper are always blacklisted and cannot be unbalcklisted.</str
                 <button fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HYY-dN-OVT">
                     <rect key="frame" x="18" y="326" width="365" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Luanch MacForge at login (required for plugins to load)" bezelStyle="regularSquare" imagePosition="left" state="on" inset="2" id="msm-xi-TdN">
+                    <buttonCell key="cell" type="check" title="Launch MacForge at login (required for plugins to load)" bezelStyle="regularSquare" imagePosition="left" state="on" inset="2" id="msm-xi-TdN">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
